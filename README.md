@@ -9,3 +9,6 @@ Used Technologies:
 - React Native Elements UI Library
 - React Navigation v3
 - Firebase SDK
+
+- this is a test
+- 
